@@ -10,7 +10,7 @@ xine-ui
 
 decibel-audio-player
 
-(other contender is audacious but in Arch corrupts the Places menu in Mate on Arch so... no !)
+(other contender is audacious but it corrupts the Places menu in Mate on Arch so... no !)
 
 # 3D game to really test video graphics, can exit in case of software renderer:
 
