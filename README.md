@@ -16,3 +16,9 @@ decibel-audio-player
 
 warzone2100
 
+# Extract rar archive, libre and better version, for me no errors, command and gui (yes, the r is missing from unar):
+
+unar
+
+file-roller
+
